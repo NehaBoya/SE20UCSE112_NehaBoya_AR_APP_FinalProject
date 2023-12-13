@@ -1,19 +1,7 @@
 # SE20UCSE112_NehaBoya_AR_APP_FinalProject
 Overview
-This AR Bird Interaction App is developed using Unity, providing an engaging experience of interacting with mama and baby birds in an augmented reality environment.
+This AR Box App is developed using Unity, providing an engaging experience of interacting with Pink Box(mumma bird) and Blue Box(baby bird) in an augmented reality environment.
 
-Table of Contents
-Getting Started
-Prerequisites
-Installation
-Usage
-Development Highlights
-Testing
-Deployment
-Additional Enhancements
-Contributing
-License
-Acknowledgments
 Getting Started
 To get started with the AR Bird Interaction App, follow the instructions below.
 
